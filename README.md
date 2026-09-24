@@ -15,7 +15,3 @@
 - The Japanese yen remained undervalued on average across every decade in the sample, suggesting a structural rather than transient deviation
 - Results are consistent with the Balassa-Samuelson effect, where non-tradeable input costs (labor, rent) drive durable PPP gaps that a simple burger-price comparison can't arbitrage away
 
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
