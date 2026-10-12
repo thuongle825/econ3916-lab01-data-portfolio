@@ -14,4 +14,3 @@
 - The Swiss franc showed persistent overvaluation, reaching +41.8% in the July 2024 cross-section
 - The Japanese yen remained undervalued on average across every decade in the sample, suggesting a structural rather than transient deviation
 - Results are consistent with the Balassa-Samuelson effect, where non-tradeable input costs (labor, rent) drive durable PPP gaps that a simple burger-price comparison can't arbitrage away
-
